@@ -43,9 +43,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Built By
 
-* **Chelcie Brit** - [PurpleBooth](https://github.com/PurpleBooth)
-* **James Mendenhall** - [PurpleBooth](https://github.com/PurpleBooth)
-* **Maire Chew** - [PurpleBooth](https://github.com/PurpleBooth)
+* **Chelcie Brit** - (https://github.com/chelciebritt)
+* **James Mendenhall** - (https://github.com/PurpleBooth)
+* **Maire Chew** - (https://github.com/mairechew)
 
 ## License
 
