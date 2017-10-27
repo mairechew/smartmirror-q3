@@ -1,4 +1,4 @@
-# Smartmirror-q3
+# The Daily Reflection
 A two-way mirror with an electronic display behind the glass. 
 The display can show the user different kinds of information in the form of widgets, such as weather, time, date, and news updates.
 
